@@ -84,7 +84,7 @@ const initialFrames = [
   },
   {
     id: 7,
-    video: "./images/color-picker.jpg",
+    video: "https://youtu.be/7mc_FYVJmzE",
     defaultPos: { x: 0, y: 8, w: 4, h: 4 },
     corner: "./images/7_corner.png",
     edgeHorizontal: "./images/7_edge_h.png",
@@ -97,7 +97,7 @@ const initialFrames = [
   },
   {
     id: 8,
-    video: "./images/example8.gif",
+    video: "https://youtu.be/F0WFKodpBP0",
     defaultPos: { x: 4, y: 8, w: 4, h: 4 },
     corner: "./images/8_corner.png",
     edgeHorizontal: "./images/8_edge_h.png",
@@ -110,7 +110,7 @@ const initialFrames = [
   },
   {
     id: 9,
-    video: "./images/color-picker.jpg",
+    video: ".https://youtu.be/6friTerMGJo",
     defaultPos: { x: 8, y: 8, w: 4, h: 4 },
     corner: "./images/9_corner.png",
     edgeHorizontal: "./images/9_edge_h.png",
